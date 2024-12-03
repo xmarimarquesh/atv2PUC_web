@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #e83e8c;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.card-title {
+    font-size: 1.2em;
+    color: #e83e8c;
+}
+
+.card-body {
+    background-color: #f9f9f9;
+}
